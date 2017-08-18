@@ -21,7 +21,7 @@ Original post from the #ShadowBrokers https://steemit.com/shadowbrokers/@theshad
 - `5bb9ddfbcefb75d017a9e745b83729390617b16f4079356579ef00e5e6b5fbd0` windows.tar.xz
 
 
-##Exploits
+## Exploits
 
 - EARLYSHOVEL RedHat 7.0 - 7.1 Sendmail 8.11.x exploit
 - EBBISLAND (EBBSHAVE) root RCE via RPC XDR overflow in Solaris 6, 7, 8, 9 & 10 (possibly newer) both SPARC and x86.
@@ -54,7 +54,7 @@ Original post from the #ShadowBrokers https://steemit.com/shadowbrokers/@theshad
 - ESSAYKEYNOTE
 - EVADEFRED
 
-##Utilities
+## Utilities
 
 - PASSFREELY utility which "Bypasses authentication for Oracle servers"
 - SMBTOUCH check if the target is vulnerable to samba exploits like ETERNALSYNERGY, ETERNALBLUE, ETERNALROMANCE
