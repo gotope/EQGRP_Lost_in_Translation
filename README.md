@@ -20,6 +20,7 @@ Original post from the #ShadowBrokers https://steemit.com/shadowbrokers/@theshad
 - `df468f01e65f3f1bc18f844d7f7bac8f8eec3664a131e2fb67ae3a55f8523004` swift.tar.xz
 - `5bb9ddfbcefb75d017a9e745b83729390617b16f4079356579ef00e5e6b5fbd0` windows.tar.xz
 
+
 Exploits
 
 EARLYSHOVEL RedHat 7.0 - 7.1 Sendmail 8.11.x exploit
@@ -52,6 +53,8 @@ EAGERLEVER NBT/SMB exploit for Windows NT4.0, 2000, XP SP1 & SP2, 2003 SP1 & Bas
 EASYFUN WordClient / IIS6.0 exploit
 ESSAYKEYNOTE
 EVADEFRED
+
+
 Utilities
 
 PASSFREELY utility which "Bypasses authentication for Oracle servers"
